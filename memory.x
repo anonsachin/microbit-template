@@ -1,4 +1,4 @@
-/* Linker script for the STM32F103C8T6 */
+/* Linker script for the MicroBit */
 MEMORY
 {
   FLASH : ORIGIN = 0x00000000, LENGTH = 512K

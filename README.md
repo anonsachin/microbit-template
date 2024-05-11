@@ -3,6 +3,11 @@
     <p>Template for getting started more easily with rust embeded development for MicroBit v2</p>
 </div>
 
+Features
+--------
+- Gives all the configuration for setting up the `LSP` and `vscode` for Microbit development.
+- Run `cargo embed` with the micrbit microcontroller attached to flash the software.
+
 <div align="left">
 <h2>For linux also do</h2>
 <ul>
