@@ -6,6 +6,7 @@
 Features
 --------
 - Gives all the configuration for setting up the `LSP` and `vscode` for Microbit development.
+- Install cargo emebed using - `cargo install cargo-embed` to allow for easy flashing.
 - Run `cargo embed` with the micrbit microcontroller attached to flash the software.
 
 <div align="left">
@@ -15,3 +16,7 @@ Features
 <li> <a herf="https://probe.rs/docs/getting-started/probe-setup/#udev-rules">udev-rules</a> this shows how to add the right permissions </li>
 </ul>
 </div>
+
+Extra resources
+---------------
+[![Embeded rust setup video](http://img.youtube.com/vi/TOAynddiu5M/0.jpg)](https://www.youtube.com/watch?v=TOAynddiu5M)
